@@ -1,0 +1,1 @@
+ALTER TABLE `app_state` ADD `goals` text DEFAULT '[]' NOT NULL;
