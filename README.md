@@ -14,7 +14,7 @@ Become is an open-source daily life coach for building confidence, discipline an
 ## Use Become
 
 - Web app: https://become-better-daily.ponderosa016.chatgpt.site
-- Android APK: https://github.com/northloopme-create/become-life-coach/releases/latest/download/become.apk
+- Android APK: https://github.com/northloopme-create/become-life-coach/releases/download/latest/become.apk
 
 ## Local development
 
